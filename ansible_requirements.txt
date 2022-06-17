@@ -4,7 +4,7 @@ Babel==2.3.4
 cffi==1.8.3
 cliff==2.2.0
 cmd2==0.6.9
-cryptography==1.5.2
+cryptography==3.3.2
 debtcollector==1.8.0
 decorator==4.0.10
 dogpile.cache==0.6.2
